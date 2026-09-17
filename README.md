@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <b>Do Hyun Ki<sup>1</sup> &middot; Yeong Jong Lee<sup>1</sup> &middot; Seok Bong Yoo<sup>*</sup></b>
+  <b>Do Hyun Ki &middot; Yeong Jong Lee &middot; Seok Bong Yoo<sup>*</sup></b>
 </p>
 
 <p align="center">
-  <sup>1</sup> Equal contribution &nbsp;&middot;&nbsp; <sup>*</sup> Corresponding author
+  <sup>*</sup> Corresponding author
 </p>
 
 <p align="center">
